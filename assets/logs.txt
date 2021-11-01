@@ -1,0 +1,45 @@
+antri do @dashboard - referer : 05-10-2021 08:41:39 192.168.8.14
+antri do @dashboard - referer : 05-10-2021 08:42:00 192.168.8.211
+antri do @dashboard - referer : 05-10-2021 08:42:23 192.168.5.21
+antri do @dashboard - referer : 05-10-2021 08:42:53 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 08:43:06 192.168.5.21
+antri do @dashboard - referer : 05-10-2021 08:43:24 192.168.5.21
+antri do @dashboard - referer : 05-10-2021 08:44:28 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 08:44:44 192.168.8.14
+antri do @dashboard - referer : 05-10-2021 08:45:10 192.168.8.211
+antri do @dashboard - referer : 05-10-2021 08:45:59 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 08:47:38 103.150.108.97
+antri do @dashboard - no referer : 05-10-2021 08:47:46 182.16.186.138:8080
+antri do @dashboard - referer : 05-10-2021 08:47:51 192.168.8.14
+antri do @dashboard - no referer : 05-10-2021 08:47:55 182.16.186.138:8080
+antri do @dashboard - referer : 05-10-2021 08:48:30 192.168.8.211
+antri do @dashboard - referer : 05-10-2021 08:49:07 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 08:49:16 192.168.5.21
+antri do @dashboard - referer : 05-10-2021 08:50:29 192.168.5.50
+antri do @dashboard - referer : 05-10-2021 08:50:47 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 08:50:56 192.168.8.14
+antri do @dashboard - referer : 05-10-2021 08:51:52 192.168.8.211
+antri do @dashboard - referer : 05-10-2021 08:52:15 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 08:53:39 192.168.5.50
+antri do @dashboard - referer : 05-10-2021 08:53:56 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 08:54:05 192.168.8.14
+antri do @dashboard - referer : 05-10-2021 08:55:14 192.168.8.211
+antri do @dashboard - referer : 05-10-2021 08:55:25 103.150.108.97
+antri do @dashboard - no referer : 05-10-2021 08:55:43 182.16.186.138:8080
+antri do @dashboard - referer : 05-10-2021 08:55:56 192.168.5.21
+antri do @dashboard - referer : 05-10-2021 08:56:06 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 08:56:49 192.168.5.50
+antri do @dashboard - referer : 05-10-2021 08:57:05 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 08:57:10 192.168.8.14
+antri do @dashboard - referer : 05-10-2021 08:58:24 192.168.8.211
+antri do @dashboard - referer : 05-10-2021 08:58:43 192.168.5.21
+antri do @dashboard - referer : 05-10-2021 08:58:58 192.168.8.222
+antri do @dashboard - referer : 05-10-2021 08:59:08 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 08:59:59 192.168.5.50
+antri do @dashboard - referer : 05-10-2021 09:00:16 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 09:00:17 192.168.8.14
+antri do @dashboard - referer : 05-10-2021 09:01:35 192.168.8.211
+antri do @dashboard - referer : 05-10-2021 09:02:59 103.150.108.97
+antri do @dashboard - referer : 05-10-2021 09:03:09 192.168.5.50
+antri do @dashboard - referer : 05-10-2021 09:03:24 192.168.8.14
+antri do @dashboard - referer : 05-10-2021 09:03:25 103.150.108.97
